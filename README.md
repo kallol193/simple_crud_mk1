@@ -1,6 +1,4 @@
 # simple-crud-springboot-project
-##  Download the API document  using below link
-https://github.com/KDVC/api-documents/tree/master/simple-crud-springboot-project
 
 ##  Introduction 
 This is a sample spring boot project those who are seeking to learn about how to create a simple spring boot crud application. 
